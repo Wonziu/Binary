@@ -1,0 +1,17 @@
+D:\Projects\BinaryExercise\BinaryExercise\bin\Release\BinaryExercise.exe.config
+D:\Projects\BinaryExercise\BinaryExercise\bin\Release\BinaryExercise.exe
+D:\Projects\BinaryExercise\BinaryExercise\bin\Release\BinaryExercise.pdb
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\MainWindow.g.cs
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\App.g.cs
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise_MarkupCompile.cache
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise_MarkupCompile.lref
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\MainWindow.baml
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise.g.resources
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise.Properties.Resources.resources
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise.csproj.GenerateResource.Cache
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise.exe
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise.pdb
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\BinaryExercise.csprojResolveAssemblyReference.cache
+D:\Projects\BinaryExercise\BinaryExercise\bin\Release\BaalTech4WonziuLib.dll
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\Koty.g.cs
+D:\Projects\BinaryExercise\BinaryExercise\obj\Release\Koty.baml
